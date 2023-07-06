@@ -1,0 +1,46 @@
+Structure of a Computer System
+ A Computer System consists of:
+   Users (people who are using the computer)
+   Application Programs (Compilers, Databases, Games, Video player, Browsers, etc.)
+   System Programs (Shells, Editors, Compilers, etc.)
+   Operating System ( A special program which acts as an interface between user and hardware )
+Hardware ( CPU, Disks, Memory, etc)
+
+DEF:
+   It provides interaction between users of computers and computer hardware.
+   interface between user & hardware.(link user and hardware)
+   it is a system software.
+    controls the execution of application programs
+    operating system is the one program running at all times on the computer
+    
+     storage management
+    security & protection ---if we want to open phone we want to enter password and check and authorize password are stored in os
+
+ GOALS:
+     1)Efficiency
+     2)convenience
+TYPES:
+        batch os
+        multiprogramming os
+        multi tasking os
+        multi processing os
+        real time os
+Batch os: Sequence of jobs in a program on a computer without manual interventions.(job-----> program +input+control instruction ........user cant intract with that os..........)
+           similar types of jobs were batched together and executed in time.
+    
+
+HARDWARE consists :
+       memory, CPU, ALU, I/O devices, peripheral devices, and storage devices
+   
+   Assembly language: user doesnot understand the user language so user start to learn machine understandable language this is called assembly level language.
+  
+    shell programming  - intract between the user and os
+    kernal programming -intract between os and hardware
+     
+    compiler/interpreter  --convert human language  to computer understandable language
+    compiler  -check line by line code error and execution
+    interpretor - check entire program and indicate error at a shot execute a whole
+    
+    
+  
+   
